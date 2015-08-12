@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Love 彤彤 Forever]]></title>
   <link href="http://yulong518.github.io/atom.xml" rel="self"/>
   <link href="http://yulong518.github.io/"/>
-  <updated>2015-08-11T23:50:06+08:00</updated>
+  <updated>2015-08-12T19:00:20+08:00</updated>
   <id>http://yulong518.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[zhanglinyu]]></title>
+    <link href="http://yulong518.github.io/blog/2015/08/12/zhanglinyu/"/>
+    <updated>2015-08-12T18:52:30+08:00</updated>
+    <id>http://yulong518.github.io/blog/2015/08/12/zhanglinyu</id>
+    <content type="html"><![CDATA[<p><img class="left" src="http://yulong518.github.io/images/zhanglinyu.jpg" width="350" height="350" title="image" alt="My Baby"></p>
+]]></content>
+  </entry>
   
 </feed>
