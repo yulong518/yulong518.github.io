@@ -57,3 +57,8 @@ categories:
 以后你就是我的人啦，不许别人欺负你，让你不开心，我也只会疼你一个女孩子，you are my lady!
 
 我们的故事，就这么让我们一日、一年、一辈子、一起写下去。我爱你，等你回来。
+
+{% img left /images/together.jpg 350 350 'image' 'together' %}
+
+
+2015.08.20
